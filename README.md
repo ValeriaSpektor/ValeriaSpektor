@@ -61,7 +61,7 @@ Automated UI bug detection with CI pipelines
 ### 🤖 QA Diploma: Chatbot Studio  
 **Tech:** API/UI testing, Allure, CI/CD  
 Functional test suite for Chatbot Studio platform  
-[🔗 View project](https://github.com/ValeriaSpektor/QA_Diploma_Chatbot_Studio)
+[🔗 View project](https://github.com/ValeriaSpektor/QA-Diploma-Chatbot-Studio)
 
 ### 🎯 IT Switcher: Cypress Automation  
 Advanced Cypress test suite with Page Object pattern  
