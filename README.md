@@ -1,138 +1,86 @@
-👋 Hi, I'm Valeria Spektor!
 
-👩‍💻 QA Team Lead | Automation QA Engineer
+# 👋 Hi, I'm Valeria Spektor
 
-An experienced quality assurance professional with expertise in manual and automation testing. I lead a QA team at Chatbot Studio AI and specialize in ensuring high-quality web and mobile applications through comprehensive testing strategies and effective team collaboration.
-
----
-
-### 🛠️ Technical Skills
-
-**Manual Testing**
-- Test case creation, checklists, and test plans.
-- Functional, regression, acceptance, and UI/UX testing.
-- Requirements analysis and documentation review.
-- Bug tracking and reporting (Jira).
-- API testing using Postman.
-- Traffic interception and performance analysis (Charles Proxy).
-
-**Automation Testing**
-- Writing automated API tests in Postman using JavaScript.
-- End-to-end testing of web applications with Playwright.
-- Working with test frameworks like Jest.
-- CI/CD pipeline integration with GitHub Actions.
-- Generating Allure reports for detailed test results.
-
-**Tools**
-- Bug Tracking: Jira, TestLink.
-- Documentation: Confluence, GitHub Wiki.
-- Version Control: Git, GitHub.
-- API Testing: Postman.
-- Performance Testing: Charles Proxy.
-- Automation: JavaScript, Playwright, Jest.
-- Reporting: Allure.
+🎯 **QA Team Lead • Manual & Automation QA Engineer • AI Testing Specialist**  
+🚀 Helping AI-driven teams build quality products through smart testing & scalable automation
 
 ---
 
-### 💼 Work Experience
+## 🛠️ Tech Stack
 
-**QA Team Lead | Chatbot Studio AI (Remote)**
-*Oct 2024 – Jan 2025*
-- Led a team of QA engineers to achieve project goals.
-- Developed and implemented testing strategies and methodologies.
-- Oversaw planning, execution, and reporting of manual and automated tests.
-- Collaborated with cross-functional teams to ensure product quality.
-- Monitored team performance and provided feedback.
-- Optimized QA processes and workflows.
-
-**QA Engineer | AI Chatbot Studio (Remote)**
-*Jun 2024 – Sep 2024*
-- Created and executed test cases for software functionality.
-- Documented and tracked found bugs using Jira.
-- Conducted functional, regression, and manual API testing.
-- Prepared detailed test documentation, including test plans and reports.
-
-**QA Engineer | WowPlaces (Remote)**
-*Apr 2024 – Sep 2024*
-- Developed unit tests in JavaScript/TypeScript using Jest.
-- Participated in team meetings and suggested product improvements.
-- Conducted testing for tourism-related web applications.
-
-**QA Engineer | Tehnosoft LLC (Remote)**
-*Oct 2023 – Nov 2023*
-- Created test documentation, including test cases, checklists, and bug reports.
-- Conducted stress testing using Charles Proxy.
-- Tracked issues in Jira and collaborated with developers.
+**Languages:** JavaScript, TypeScript  
+**Testing Tools:** Postman, Charles Proxy, Playwright, Cypress, Jest  
+**Test Management:** Jira, Confluence, TestLink  
+**CI/CD & Reporting:** GitHub Actions, Jenkins, Allure  
+**Platforms:** Supabase, Google API Console, n8n  
+**Types of Testing:** Functional, Regression, API, E2E, AI/LLM-based QA
 
 ---
 
-### 📘 Education & Training
+## 💼 Work Experience
 
-**Manual Testing**
-- Learned to create test cases, checklists, and bug reports.
-- Gained hands-on experience with functional, UI/UX, and regression testing.
-- Mastered tools like Jira, Postman, and Charles Proxy.
+### **QA Team Lead — Chatbot Studio AI**  
+*Oct 2024 – Jan 2025 (Remote)*  
+- Built and mentored a QA team for 5 AI assistants  
+- Created structured onboarding, increasing intern success rate by 80%  
+- Led manual and automated testing, improved test coverage
 
-**Postman API Testing**
-- Wrote automated API tests in JavaScript.
-- Performed REST API testing (GET, POST, PUT, DELETE).
-- Integrated API tests into CI/CD pipelines.
+### **QA Engineer — AI Chatbot Studio**  
+*Jun 2024 – Sep 2024 (Remote)*  
+- Executed test cases for web applications  
+- Documented bugs in Jira and tested APIs using Postman
 
-**Playwright Automation**
-- Automated end-to-end web application tests.
-- Worked with DOM elements, selectors, and dynamic waits.
-- Integrated Allure for detailed reporting.
+### **QA Engineer — Antara LLC**  
+*Jan 2024 – May 2024*  
+- Conducted API & regression testing (Postman, Charles Proxy)  
+- Reduced regression time by 25%
 
----
-
-### 🌟 Key Achievements
-
-- Successfully led QA teams to deliver high-quality applications.
-- Automated complex test scenarios, improving test coverage.
-- Implemented CI/CD pipelines for continuous testing and reporting.
-- Optimized QA processes for efficiency and effectiveness.
+### **QA Internships — Various**  
+*2023 – 2024*  
+- **WowPlaces** – Unit testing in JavaScript/TypeScript using Jest  
+- **Tehnosoft LLC** – Mobile app testing with Charles Proxy
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Key Achievements
 
-![GitHub Stats](#)
-
----
-
-### 🎯 Current Focus
-
-- Enhancing automation test coverage.
-- Improving API testing frameworks.
-- Expanding expertise in CI/CD best practices.
+- 🚀 Reduced manual testing effort by 35% via AI QA assistants  
+- ✅ Delivered 4 internship cohorts, mentoring 40+ QA trainees  
+- 🔁 Integrated CI/CD pipelines with GitHub Actions & Allure  
+- 💡 Created Bug Categorization & Test Generation AI tools
 
 ---
 
-### 📫 Contact Me
+## 📂 Projects
 
-- **LinkedIn:** Valeria Spektor
-- **GitHub:** [@ValeriaSpektor](https://github.com/ValeriaSpektor)
+### 🐞 QA Guru: BugHunter  
+**Tech:** Playwright, Allure, GitHub Actions  
+Automated UI bug detection with CI pipelines  
+[🔗 View project](https://github.com/ValeriaSpektor/QA_GURU_BugHunter_Project)
+
+### 🤖 QA Diploma: Chatbot Studio  
+**Tech:** API/UI testing, Allure, CI/CD  
+Functional test suite for Chatbot Studio platform  
+[🔗 View project](https://github.com/ValeriaSpektor/QA_Diploma_Chatbot_Studio)
+
+### 🎯 IT Switcher: Cypress Automation  
+Advanced Cypress test suite with Page Object pattern  
+[🔗 View project](https://github.com/ValeriaSpektor/Cypress-Automation)
 
 ---
 
-### Projects
+## 📘 Education & Certifications
 
-#### QA Guru Projects
-1. **BugHunter Project**  
-   - **Description:** Automated tests using Playwright with Allure integration, focusing on finding and reporting UI bugs efficiently. Includes CI/CD setup with GitHub Actions.  
-   - **Repository:** [QA Guru: BugHunter Project](https://github.com/ValeriaSpektor/QA_GURU_BugHunter_Project)
+- **QA.GURU** — Test Automation with JavaScript + Playwright (Completed)  
+- **IT SWITCHER** — QA Automation with JavaScript (2023–2024)  
+- **University of Haifa** — M.A. Tourism Planning & Development  
+- **Kostroma STU** — B.A. Tourism & Service Management
 
-2. **QA Diploma: Chatbot Studio**  
-   - **Description:** Functional tests for Chatbot Studio, integrated with Allure for test reporting and CI/CD pipelines for automation. Covers API and UI testing.  
-   - **Repository:** [QA Diploma: Chatbot Studio](https://github.com/ValeriaSpektor/QA-Diploma-Chatbot-Studio)
+---
 
-#### IT Switcher Projects
-1. **Cypress Automation Project**  
-   - **Description:** End-to-end test automation using Cypress, demonstrating advanced testing techniques, Page Object pattern, and reusable test scripts.  
-   - **Repository:** [IT Switcher: Cypress Automation](https://github.com/ValeriaSpektor/IT_SWITCHER_DIPLOM)
+## 📫 Let's connect!
 
-2. **Functionality Coverage Analysis**  
-   - **Description:** Coverage measurement using NYC for functions, branches, and lines, ensuring thorough testing and metrics tracking in the project.  
-   - **Repository:** [Functionality Coverage Analysis](https://github.com/ValeriaSpektor/Functionality-Coverage-Analysis)
-
-
+- 💼 [LinkedIn](https://linkedin.com/in/valeria-spektor-748a8469)  
+- 💻 [GitHub](https://github.com/ValeriaSpektor)  
+- ✉️ Email: vlapin84@gmail.com  
+- 🌍 Location: Israel  
