@@ -65,7 +65,7 @@ Functional test suite for Chatbot Studio platform
 
 ### 🎯 IT Switcher: Cypress Automation  
 Advanced Cypress test suite with Page Object pattern  
-[🔗 View project](https://github.com/ValeriaSpektor/Cypress-Automation)
+[🔗 View project](https://github.com/ValeriaSpektor/IT_SWITCHER_DIPLOM)
 
 ---
 
