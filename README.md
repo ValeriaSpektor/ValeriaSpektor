@@ -1,13 +1,11 @@
 
 # 👋 Hi, I'm Valeria Spektor
-
-🎯 **QA Team Lead • Manual & Automation QA Engineer • AI Testing Specialist**  
+🎯 **Senior QA Engineer • Manual & Automation QA • AI Testing Specialist**  
 🚀 Helping AI-driven teams build quality products through smart testing & scalable automation
 
 ---
 
 ## 🛠️ Tech Stack
-
 **Languages:** JavaScript, TypeScript  
 **Testing Tools:** Postman, Charles Proxy, Playwright, Cypress, Jest  
 **Test Management:** Jira, Confluence, TestLink  
@@ -19,36 +17,42 @@
 
 ## 💼 Work Experience
 
-### **QA Team Lead — Chatbot Studio AI**  
-*Oct 2024 – Jan 2025 (Remote)*  
-- Built and mentored a QA team for 5 AI assistants  
-- Created structured onboarding, increasing intern success rate by 80%  
-- Led manual and automated testing, improved test coverage
+### **Senior QA Engineer — Empire Leads**
+*Oct 2025 – Mar 2026 (Remote)*
+- Built QA processes from scratch, reducing critical release defects by 30–40%
+- Owned end-to-end QA across UI, API, and DB layers; increased pre-release defect detection to ~80%
+- Applied risk-based testing, shortening test execution time by 20–25%
+- Identified 50+ defects across reports, calculations, and data consistency
 
-### **QA Engineer — AI Chatbot Studio**  
-*Jun 2024 – Sep 2024 (Remote)*  
-- Executed test cases for web applications  
-- Documented bugs in Jira and tested APIs using Postman
+### **QA Team Lead — WowPlaces**
+*Jun 2025 – Aug 2025 (Remote)*
+- Led a team of 4 junior QA engineers, increasing test execution efficiency by ~20%
+- Trained and onboarded 4 junior QA engineers, accelerating ramp-up by ~30%
+- Introduced risk-based prioritization and regression checklists
 
-### **QA Engineer — Antara LLC**  
-*Jan 2024 – May 2024*  
-- Conducted API & regression testing (Postman, Charles Proxy)  
-- Reduced regression time by 25%
+### **QA Engineer — WowPlaces**
+*May 2025 – Jun 2025 (Remote)*
+- Covered core user flows, API integrations, and end-to-end scenarios
+- Created test cases and checklists; validated API behavior in Postman
 
-### **QA Internships — Various**  
-*2023 – 2024*  
-- **WowPlaces** – Unit testing in JavaScript/TypeScript using Jest  
-- **Tehnosoft LLC** – Mobile app testing with Charles Proxy
+### **QA Engineer — VitaGPT-Chatbots.Studio**
+*Jun 2024 – Jan 2025 (Remote)*
+- Established QA processes from scratch for AI assistant testing
+- Detected 30+ AI logic defects; mentored 50+ QA trainees
+- Standardized validation of conversational flows, context retention, and hallucination testing
+
+### **QA Engineer Intern — Technosoft**
+*Sep 2023 – Nov 2023 (Remote)*
+- Executed manual testing of a mobile application
+- Reported and verified defects; ran network checks via Charles Proxy
 
 ---
 
 ## 🌟 Key Achievements
-
-- 🚀 Reduced manual testing effort by 35% via AI QA assistants  
-- ✅ Delivered 4 internship cohorts, mentoring 40+ QA trainees  
-- 🔁 Integrated CI/CD pipelines with GitHub Actions & Allure  
-- 💡 Created Bug Categorization & Test Generation AI tools
-
+- 🚀 Reduced critical production defects by 30–40% through stronger test coverage and release control
+- ✅ Mentored 50+ QA trainees across AI testing programs
+- 🔍 Improved pre-release critical defect detection to 70–80%
+- 💡 Standardized AI response validation: context retention, fallback logic, hallucination detectio
 ---
 
 ## 📂 Projects
