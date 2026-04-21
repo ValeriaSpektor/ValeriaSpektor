@@ -10,7 +10,7 @@
 **Testing Tools:** Postman, Charles Proxy, Playwright, Cypress, Jest  
 **Test Management:** Jira, Confluence, TestLink  
 **CI/CD & Reporting:** GitHub Actions, Jenkins, Allure  
-**Platforms:** Supabase, Google API Console, n8n  
+**Platforms:** Supabase, Google API Console,
 **Types of Testing:** Functional, Regression, API, E2E, AI/LLM-based QA
 
 ---
