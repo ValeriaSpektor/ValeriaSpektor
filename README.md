@@ -84,7 +84,7 @@ Advanced Cypress test suite with Page Object pattern
 
 ## 📫 Let's connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/valeria-spektor-748a8469)  
+- 💼 [LinkedIn](https://linkedin.com/in/valeria-spektor-qa)  
 - 💻 [GitHub](https://github.com/ValeriaSpektor)  
 - ✉️ Email: vlapin84@gmail.com  
 - 🌍 Location: Israel  
