@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Valeria Spektor
-🎯 **Senior QA Engineer • Manual & Automation QA • AI Testing Specialist**  
+🎯 **QA Engineer • Manual & Automation QA • AI Testing Specialist**  
 🚀 Helping AI-driven teams build quality products through smart testing & scalable automation
 
 ---
