@@ -1,84 +1,196 @@
-
 # 👋 Hi, I'm Valeria Spektor
-🎯 **QA Engineer • Manual & Automation QA • AI Testing Specialist**  
-🚀 Helping AI-driven teams build quality products through smart testing & scalable automation
+
+## QA Engineer | Manual QA | API Testing | AI Testing | Playwright
+
+ISTQB CTFL Certified QA Engineer with 3+ years of experience testing SaaS platforms, CRM systems, AI products, and REST APIs.
+
+I enjoy building quality from the ground up — creating QA processes, designing test strategies, finding critical edge cases, and helping teams release reliable software.
+
+Currently expanding my automation skills with Playwright, Python, GitHub Actions, and CI/CD.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** JavaScript, TypeScript  
-**Testing Tools:** Postman, Charles Proxy, Playwright, Cypress, Jest  
-**Test Management:** Jira, Confluence, TestLink  
-**CI/CD & Reporting:** GitHub Actions, Jenkins, Allure  
-**Platforms:** Supabase, Google API Console,
-**Types of Testing:** Functional, Regression, API, E2E, AI/LLM-based QA
+# 🛠 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript (learning)
+- Python (learning)
+- SQL
+
+### Test Automation
+- Playwright
+- Cypress
+- Pytest
+- Jest
+
+### API Testing
+- Postman
+- Swagger
+- REST API
+- JSON
+
+### QA Tools
+- Jira
+- Confluence
+- Charles Proxy
+- Chrome DevTools
+
+### Databases
+- PostgreSQL
+- pgAdmin
+
+### CI/CD
+- GitHub Actions
+- Jenkins
+- Allure
+
+### Monitoring & Analytics
+- Grafana
+- Elasticsearch
+
+### Testing Types
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- Smoke Testing
+- API Testing
+- End-to-End Testing
+- Risk-Based Testing
+- AI / LLM Testing
 
 ---
 
-## 💼 Work Experience
+# 💼 Experience
 
-### **Senior QA Engineer — Empire Leads**
-*Oct 2025 – Mar 2026 (Remote)*
-- Built QA processes from scratch, reducing critical release defects by 30–40%
-- Owned end-to-end QA across UI, API, and DB layers; increased pre-release defect detection to ~80%
-- Applied risk-based testing, shortening test execution time by 20–25%
-- Identified 50+ defects across reports, calculations, and data consistency
+## QA Engineer (Sole QA) — Empire Leads
+**Oct 2025 – Jun 2026**
 
-### **QA Team Lead — WowPlaces**
-*Jun 2025 – Aug 2025 (Remote)*
-- Led a team of 4 junior QA engineers, increasing test execution efficiency by ~20%
-- Trained and onboarded 4 junior QA engineers, accelerating ramp-up by ~30%
-- Introduced risk-based prioritization and regression checklists
-
-### **QA Engineer — WowPlaces**
-*May 2025 – Jun 2025 (Remote)*
-- Covered core user flows, API integrations, and end-to-end scenarios
-- Created test cases and checklists; validated API behavior in Postman
-
-### **QA Engineer — VitaGPT-Chatbots.Studio**
-*Jun 2024 – Jan 2025 (Remote)*
-- Established QA processes from scratch for AI assistant testing
-- Detected 30+ AI logic defects; mentored 50+ QA trainees
-- Standardized validation of conversational flows, context retention, and hallucination testing
-
-### **QA Engineer Intern — Technosoft**
-*Sep 2023 – Nov 2023 (Remote)*
-- Executed manual testing of a mobile application
-- Reported and verified defects; ran network checks via Charles Proxy
+- Built QA processes from scratch
+- Owned end-to-end quality across UI, API and database
+- Reduced critical release defects by ~30%
+- Performed root-cause analysis
+- Created regression strategy
+- Found 50+ critical defects
+- Worked closely with developers during the SDLC
 
 ---
 
-## 🌟 Key Achievements
-- 🚀 Reduced critical production defects by 30–40% through stronger test coverage and release control
-- ✅ Mentored 50+ QA trainees across AI testing programs
-- 🔍 Improved pre-release critical defect detection to 70–80%
-- 💡 Standardized AI response validation: context retention, fallback logic, hallucination detectio
----
+## QA Engineer → QA Team Lead — WowPlaces
+**May 2025 – Aug 2025**
 
-## 📂 Projects
-
-### 🐞 QA Guru: BugHunter  
-**Tech:** Playwright, Allure, GitHub Actions  
-Automated UI bug detection with CI pipelines  
-[🔗 View project](https://github.com/ValeriaSpektor/QA_GURU_BugHunter_Project)
-
-### 🤖 QA Diploma: Chatbot Studio  
-**Tech:** API/UI testing, Allure, CI/CD  
-Functional test suite for Chatbot Studio platform  
-[🔗 View project](https://github.com/ValeriaSpektor/QA-Diploma-Chatbot-Studio)
-
-### 🎯 IT Switcher: Cypress Automation  
-Advanced Cypress test suite with Page Object pattern  
-[🔗 View project](https://github.com/ValeriaSpektor/IT_SWITCHER_DIPLOM)
+- Promoted to QA Team Lead after one month
+- Led and mentored 4 QA Engineers
+- Introduced Risk-Based Testing
+- Built regression checklists
+- Tested Web + REST API
+- Designed test documentation
 
 ---
 
-## 📘 Education & Certifications
+## QA Engineer → QA Team Lead — VitaGPT
+**Jan 2024 – Jan 2025**
 
-- **QA.GURU** — Test Automation with JavaScript + Playwright (Completed)  
-- **IT SWITCHER** — QA Automation with JavaScript (2023–2024)  
-- **University of Haifa** — M.A. Tourism Planning & Development  
-- **Kostroma STU** — B.A. Tourism & Service Management
+- Built QA process for AI assistants
+- Tested conversational AI
+- Verified context retention
+- Hallucination testing
+- Prompt validation
+- Mentored 50+ QA students
+
+---
+
+## QA Engineer Intern — Technosoft
+**Sep 2023 – Nov 2023**
+
+- Mobile testing
+- Charles Proxy
+- Functional testing
+- Regression
+- Defect reporting
+
+---
+
+# 🚀 Featured Projects
+
+## QA Guru — Playwright Automation
+
+Playwright UI automation framework
+
+✔ Page Object Model
+
+✔ GitHub Actions
+
+✔ Allure Reports
+
+✔ CI/CD
+
+🔗 https://github.com/ValeriaSpektor/QA_GURU_BugHunter_Project
+
+---
+
+## API Testing with Playwright
+
+REST API automation
+
+✔ Authentication
+
+✔ CRUD
+
+✔ JSON validation
+
+✔ Allure
+
+✔ GitHub Actions
+
+---
+
+## Chatbot Studio QA
+
+AI Assistant testing
+
+✔ Conversation testing
+
+✔ Context retention
+
+✔ Hallucination validation
+
+✔ API testing
+
+🔗 https://github.com/ValeriaSpektor/QA-Diploma-Chatbot-Studio
+
+---
+
+# 🏆 Certifications
+
+- ISTQB CTFL v4
+- AI Integrator (SITE)
+- QA.GURU — Playwright
+- IT Switcher — Cypress
+- IT Switcher — Manual QA
+
+---
+
+# 🎯 Currently Learning
+
+- Advanced Playwright
+- Python for Test Automation
+- TypeScript
+- Performance Testing (k6)
+- CI/CD
+- SonarQube
+
+---
+
+# 📫 Connect with me
+
+LinkedIn
+
+www.linkedin.com/in/valeria-spektor-qa
+
+GitHub
+
+https://github.com/ValeriaSpektor
 
 ---
 
